@@ -1,0 +1,38 @@
+{ 
+    "events":
+    [
+        {
+            "id": 1,
+            "category": "Animal",
+            "title": "Cat Adoption Day",
+            "description": "the best cats",
+            "location": "pakistan",
+            "date": "Jan 28, 2023",
+            "time": "12:00",
+            "petsAllowed": true,
+            "organizer": "Imran"
+        },
+        {
+            "id": 2,
+            "category": "Wild",
+            "title": "Horse Adoption Day",
+            "description": "the best horse in the world",
+            "location": "gujranwala",
+            "date": "Jan 28, 2023",
+            "time": "12:00",
+            "petsAllowed": true,
+            "organizer": "Khan"
+        },
+        {
+            "id": 3,
+            "category": "Dog",
+            "title": "Dog Adoption Day",
+            "description": "the best dog in the world",
+            "location": "gujranwala",
+            "date": "Jan 29, 2023",
+            "time": "11:00",
+            "petsAllowed": true,
+            "organizer": "Imran"
+        }
+    ]
+}
